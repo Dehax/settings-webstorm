@@ -14,5 +14,6 @@
     <mask>*.mxml</mask>
     <mask>*.jsx</mask>
     <mask>*.scss</mask>
+    <mask>project.js</mask>
   </component>
 </application>
