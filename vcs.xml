@@ -6,9 +6,13 @@
           <option name="url" value="https://Dehax@bitbucket.org/therussianmob/filmit-challenges-cms.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://Dehax@bitbucket.org/therussianmob/giggle-frontend-cms.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Work\filmit" />
+    <option name="cloneParentDir" value="C:\Work\giggle" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COMPACT_REFERENCES_VIEW" value="false" />
