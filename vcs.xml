@@ -7,11 +7,31 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
+          <option name="url" value="https://Dehax@bitbucket.org/therussianmob/giggle-frontend-cms.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="https://Dehax@bitbucket.org/therussianmob/giggle-microservice-api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://Dehax@bitbucket.org/therussianmob/giggle-microservice-wrapper.git" />
+          <option name="url" value="https://Dehax@bitbucket.org/therussianmob/giggle-microservice-credentials.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://Dehax@bitbucket.org/therussianmob/giggle-microservice-session.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://Dehax@bitbucket.org/therussianmob/giggle-microservice-giggle.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://Dehax@bitbucket.org/therussianmob/giggle-frontend-crm.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://Dehax@bitbucket.org/therussianmob/fan-apps-platform-cms.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
