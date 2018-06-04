@@ -42,6 +42,10 @@
           <option name="url" value="https://Dehax@bitbucket.org/therussianmob/giggle-microservice-wrapper.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://Dehax@bitbucket.org/therussianmob/giggle-microservice-scheduler.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Work\giggle" />
