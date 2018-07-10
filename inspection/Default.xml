@@ -2,6 +2,7 @@
   <option name="myName" value="Default" />
   <inspection_tool class="Eslint" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="IgnoreCoverEntry" enabled="true" level="UNUSED ENTRY" enabled_by_default="true" />
+  <inspection_tool class="JSMethodCanBeStatic" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="JSUnusedGlobalSymbols" enabled="true" level="UNUSED ENTRY" enabled_by_default="true" />
   <inspection_tool class="JSUnusedLocalSymbols" enabled="true" level="UNUSED ENTRY" enabled_by_default="true" />
   <inspection_tool class="UnnecessaryLocalVariableJS" enabled="true" level="WEAK WARNING" enabled_by_default="true">
