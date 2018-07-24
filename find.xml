@@ -17,5 +17,6 @@
     <mask>*.scss</mask>
     <mask>*.jsx</mask>
     <mask>*EntityProcessor.js</mask>
+    <mask>*-create*.js</mask>
   </component>
 </application>
