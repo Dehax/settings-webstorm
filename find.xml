@@ -20,5 +20,6 @@
     <mask>*EntityProcessor.js</mask>
     <mask>*-create*.js</mask>
     <mask>*.js</mask>
+    <mask>package.json</mask>
   </component>
 </application>
