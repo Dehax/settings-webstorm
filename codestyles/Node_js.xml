@@ -22,6 +22,9 @@
     <option name="VAR_DECLARATION_WRAP" value="2" />
     <option name="IMPORTS_WRAP" value="2" />
   </JSCodeStyleSettings>
+  <JSON>
+    <option name="ARRAY_WRAPPING" value="5" />
+  </JSON>
   <codeStyleSettings language="CSS">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
