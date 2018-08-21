@@ -23,7 +23,6 @@
     <option name="IMPORTS_WRAP" value="2" />
     <option name="IMPORT_SORT_MEMBERS" value="false" />
     <option name="IMPORT_MERGE_MEMBERS" value="FALSE" />
-    <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="TRUE" />
   </JSCodeStyleSettings>
   <JSON>
     <option name="ARRAY_WRAPPING" value="5" />
