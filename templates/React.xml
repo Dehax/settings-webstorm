@@ -256,14 +256,14 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="ptet" value="PropTypes.oneOfType([&#10;    $END$&#10;])," description="An object that could be one of many types" toReformat="false" toShortenFQNames="true">
+  <template name="ptet" value="PropTypes.oneOfType([&#10;  $END$&#10;])," description="An object that could be one of many types" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="ptetr" value="PropTypes.oneOfType([&#10;    $END$&#10;]).isRequired," description="An object that could be one of many types required" toReformat="false" toShortenFQNames="true">
+  <template name="ptetr" value="PropTypes.oneOfType([&#10;  $END$&#10;]).isRequired," description="An object that could be one of many types required" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
