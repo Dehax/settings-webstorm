@@ -22,6 +22,7 @@
     <option name="VAR_DECLARATION_WRAP" value="2" />
     <option name="IMPORTS_WRAP" value="2" />
     <option name="IMPORT_SORT_MEMBERS" value="false" />
+    <option name="IMPORT_SORT_MODULE_NAME" value="true" />
     <option name="IMPORT_MERGE_MEMBERS" value="FALSE" />
   </JSCodeStyleSettings>
   <JSON>
