@@ -70,9 +70,45 @@
           <option name="url" value="https://Dehax@bitbucket.org/therussianmob/giggle-microservice-builder.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://Dehax@bitbucket.org/therussianmob/giggle-frontend-builder.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://Dehax@bitbucket.org/therussianmob/giggle-microservice-deployer.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://Dehax@bitbucket.org/therussianmob/giggle-microservice-payment.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://Dehax@bitbucket.org/therussianmob/giggle-microservice-chat.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://Dehax@bitbucket.org/therussianmob/giggle-microservice-notifications-firebase.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://Dehax@bitbucket.org/therussianmob/giggle-microservice-sms.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://Dehax@bitbucket.org/therussianmob/giggle-microservice-business-logic.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="Dehax" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.com" />
+          <option name="userName" value="Dehax" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Work\giggle" />
+    <option name="cloneParentDir" value="C:\Work\giggle\backend\microservices" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COMPACT_REFERENCES_VIEW" value="false" />
@@ -80,6 +116,6 @@
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
   </component>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="D:/YandexDisk/Work/FilmIt" />
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/YandexDisk/Work/Giggle" />
   </component>
 </application>

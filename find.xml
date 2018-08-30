@@ -12,9 +12,13 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>project.js</mask>
-    <mask>*.js</mask>
     <mask>*.ts</mask>
-    <mask>*.scss</mask>
+    <mask>*EntityProcessor.js</mask>
+    <mask>*-create*.js</mask>
+    <mask>*.js</mask>
+    <mask>package.json</mask>
     <mask>*.jsx</mask>
+    <mask>*.sass</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
