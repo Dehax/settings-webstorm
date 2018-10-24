@@ -312,4 +312,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="gdsfp" value="static getDerivedStateFromProps(props, state) {&#10; $END$&#10;}&#10;" description="Invoked after a component is instantiated as well as when it receives new props." toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
 </templateSet>
