@@ -122,9 +122,13 @@
           <option name="url" value="https://Dehax@bitbucket.org/therussianmob/w2p-frontend.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://Dehax@bitbucket.org/therussianmob/file-converter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Work\way2pay" />
+    <option name="cloneParentDir" value="C:\Work\filmit" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COMPACT_REFERENCES_VIEW" value="false" />
