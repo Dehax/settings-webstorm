@@ -15,6 +15,7 @@
       </value>
     </option>
   </inspection_tool>
+  <inspection_tool class="CssUnknownTarget" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="Eslint" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="HtmlUnknownTarget" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="IgnoreCoverEntry" enabled="true" level="UNUSED ENTRY" enabled_by_default="true" />
