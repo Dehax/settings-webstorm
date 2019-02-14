@@ -130,9 +130,13 @@
           <option name="url" value="https://bitbucket.org/therussianmob/find-karma-website.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/rzhaka/prikol.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Work\find-karma" />
+    <option name="cloneParentDir" value="C:\Projects\JS" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COMPACT_REFERENCES_VIEW" value="false" />
